@@ -47,7 +47,7 @@ The proposed pipeline consists of three stages:
 
 Evaluated on 1,015 Korean news articles (Jan 2023 – Feb 2025) from [BIG KINDS](https://www.bigkinds.or.kr), preprocessed to **2,597 keywords**.
 
-| Model | R_w2v (↑) | R_cv (↑) | Modularity (↑) |
+| Model | C<sub>w2v</sub> (↑) | C<sub>v</sub> (↑) | Modularity (↑) |
 |---|---|---|---|
 | LDA | 0.5846 | 0.4391 | 0.1910 |
 | BERTopic | 0.6779 | 0.4754 | 0.2347 |
@@ -58,9 +58,9 @@ Evaluated on 1,015 Korean news articles (Jan 2023 – Feb 2025) from [BIG KINDS]
 
 ---
 
-## Installation
+<!-- ## Installation
 
 ```bash
 git clone https://github.com/<your-username>/Topic-GNN-Integration.git
 cd Topic-GNN-Integration
-pip install -r requirements.txt
+pip install -r requirements.txt -->
