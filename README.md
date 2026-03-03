@@ -54,7 +54,7 @@ Evaluated on 1,015 Korean news articles (Jan 2023 – Feb 2025) from [BIG KINDS]
 | **Ours (DMoN)** | **0.7220** | **0.5621** | **0.3454** |
 | **Improvement over LDA** | **+23.5%** | **+28.0%** | **+80.8%** |
 
-![Performance Comparison](figures/fig6_performance.png)
+![Performance Comparison](figures/5.png)
 
 ---
 
