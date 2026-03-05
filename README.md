@@ -4,6 +4,7 @@
 > - **Author:** Soonwoo Kim 
 > - **Supervisor:** Prof. Suhyeon Kim
 > - **Institution:** Department of Data Science, Kyungpook National University
+> - **Link:** https://dcollection.knu.ac.kr/srch/srchDetail/000000111684
 
 
 ---
