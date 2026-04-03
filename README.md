@@ -9,7 +9,7 @@
 
 ---
 
-## Curiosity
+## Where this stemed from
 This project originated from a fundamental question: **can heterogeneous data of different natures be jointly leveraged?** Data constructed for a specific task inherently possess properties well-suited to addressing that task's objectives. This inquiry was further refined into a more concrete question $-$ whether such properties could be effectively exploited across heterogeneous data sources. Motivated by this curiosity, we represent these relationships as a graph structure and apply the proposed framework to topic modeling.
 
 ---
