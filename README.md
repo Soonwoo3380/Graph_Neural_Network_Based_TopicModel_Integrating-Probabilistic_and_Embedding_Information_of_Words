@@ -47,7 +47,6 @@ This repository contains the full implementation of a novel topic modeling frame
 
 ---
 ## Data
-## 📊 Dataset
 
 ### Data Collection
 News articles were collected from [BIG KINDS](https://www.bigkinds.or.kr), 
